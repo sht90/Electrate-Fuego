@@ -6,14 +6,14 @@ body, html {
 
 .hero-image {
   /* This is your "hero image" or "wide image." You will need to change feet.jpg to match your asset*/
-  
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pentultimate.jpeg");
+
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pittscript.png");
   height: 100%;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;      
+  position: relative;
 }
 
 /* Places text in the middle of the image */
@@ -42,11 +42,11 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("
 
 /* This code controls that cool parallax image and scrolling effect. Change the image "feet4.jpg" below to match your asset.*/
 /*You can always add more parllax assets on your web document, just follow the directions at the bottom of the index.html.*/
-.parallax-1 { 
-  background-image: url("pentultimate.jpeg");
+.parallax-1 {
+  background-image: url("pentultimate.jpg");
 
   /* Set a specific height */
-  height: 500px; 
+  height: 500px;
 
   /* control the parallax scrolling effect */
   background-attachment: fixed;
@@ -64,7 +64,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("
   margin-right: auto;
   width: 50%;
 }
-    
+
 .center-large-image {
   display: block;
   margin-left: auto;
@@ -77,7 +77,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("
 
 .centertext {
   text-align: center;
-    
+
 }
 
 /* This css. section controls the paragraph chunks*/
@@ -86,7 +86,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("
   margin: auto;
   width: 50%;
   padding: 100px;
-    font-size: 125%; 
+    font-size: 125%;
 
 }
 
@@ -119,15 +119,3 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("
     flex: 50%;
     max-width: 50%;
 }
-
-
-
-
-
-    
-
-
-    
-
-
-
